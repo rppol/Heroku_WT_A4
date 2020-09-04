@@ -81,7 +81,7 @@
             
         <script src="jquery-3.5.1.min.js"></script>
         <script>
-        let base_url = "http://localhost/datafetch.php";
+        let base_url = "datafetch.php";
 
         $("document").ready(function(){
             getRestaurantMenuList();
