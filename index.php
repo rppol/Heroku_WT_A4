@@ -28,7 +28,7 @@
     
     <body>
     <nav class="navbar navbar-light justify-content-center" style="background-color: #e3f2fd;">
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="https://github.com/rppol/Heroku_WT_A4">
         <img src="logo.png" width="45" height="30" class="d-inline-block align-top" alt="">
         Web Technology Assignment 4 
       </a>
